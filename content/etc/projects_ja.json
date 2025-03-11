@@ -6,13 +6,5 @@
    "url": "https://www.jst.go.jp/erato/shibata/",
    "languages": ["Japanese"],
    "languageColors": ["red"]
- },
- {
-   "id": "project-2",
-   "title": "JST-川原",
-   "description": "Preparing",
-   "url": "https://www.jst.go.jp/erato/kawahara/",
-   "languages": ["Korean"],
-   "languageColors": ["blue"]
- },
+ }
 ]
