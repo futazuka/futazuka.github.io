@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Toshihiro Futazuka"
   },
   "nav": {
     "bio": "About",
@@ -10,20 +10,21 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Toshihiro Futazuka",
+    "nameJp": "二塚",
     "phd": "",
     "phdJp": "博士（工学）",
     "position": "Postdoctoral Researcher",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
+    "github": "https://github.com/futazuka",
+    "scholar": "",
     "orcid": "https://orcid.org/0000-0000-0000-0000",
     "researchmap": "https://researchmap.jp/yourusername",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Density Functional Theory",
+      "Grain boundary",
+      "Kawahara Kazuaki"
     ]
   },
   "publications": {
