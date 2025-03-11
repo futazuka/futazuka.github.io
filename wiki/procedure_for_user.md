@@ -42,10 +42,10 @@ First, fork the template repository to your GitHub account.
 
 1. Go to the template repository page (https://github.com/sigma-users/personal-website-template)
 2. Click the "Fork" button in the top right
-3. Change the repository name if needed (e.g., `yourusername.github.io`)
+3. The repository name must be changed to your user name (`yourusername.github.io`)
 4. Click the "Create Fork" button to complete the process
 
-> **Tip**: If you want to publish it as a user site, naming the repository `yourgithubusername.github.io` is recommended.
+> **Tip**: If you want to publish it as a user site, you must name the repository `yourgithubusername.github.io` .
 
 ## 2. Change repository settings
 
@@ -317,17 +317,18 @@ Customize the SEO and Google Search Console information in the index.html file.
 > **Tip**: Proper SEO configuration improves how your site appears in search engines.
 
 ## 9. Publish on GitHub Pages
-
+After a "push" action, the GitHub page is generated.  
 Publish your site on GitHub Pages.
 
-1. Click the "Actions" tab in your forked repository
-2. Find and select the "Deploy to GitHub Pages" workflow
+1. Perform a "push" in arbitrary page (ex. edit and add space in `/content/bio/bio_en.md`, and "Commit changes...").  
+2. Click the "Actions" tab in your forked repository
+3. Find and select the "Deploy to GitHub Pages" workflow
    - If the workflow is already running or completed, check its results
    - If you cannot find the workflow, create the workflow file with these steps:
      a. Open the ".github/workflows" directory
      b. Check if there is a "deploy.yml" file
      c. If not, create a new one and copy the content from the same file in the template repository
-3. After the workflow succeeds, check the published URL in "Settings" → "Pages"
+4. After the workflow succeeds, check the published URL in "Settings" → "Pages"
 
 > **Tip**: The initial deployment may take a few minutes. Please be patient.
 
