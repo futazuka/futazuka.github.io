@@ -1,0 +1,28 @@
+[
+  {
+    "id": "paper-5",
+    "title": "Your Paper Title 5",
+    "titleJa": "Your Paper Title 5",
+    "authors": "著者1, 著者2",
+    "authorsJa": "著者1, 著者2",
+    "journal": "ジャーナル名",
+    "journalJa": "ジャーナル名",
+    "year": "2020",
+    "month": "01",
+    "doi": "10.1234/abcd",
+    "isMainWork": true
+  },
+  {
+    "id": "paper-6",
+    "title": "Theoretical calculation on the mechanical strength of spiky hair of Kazuaki Kawahara",
+    "titleJa": "Theoretical calculation on the mechanical strength of spiky hair of Kazuaki Kawahara",
+    "authors": "Kazuaki Kawahara, Toshihiro Futazuka",
+    "authorsJa": "Kazuaki Kawahara, Toshihiro Futazuka",
+    "journal": "J. Spikes",
+    "journalJa": "J. Spikes",
+    "year": "2020",
+    "month": "01",
+    "doi": "10.1234/abcd",
+    "isMainWork": true
+  }
+]
