@@ -4,7 +4,7 @@
    "title": "JST-ERATO",
    "description": "準備中",
    "url": "https://www.jst.go.jp/erato/shibata/",
-   "languages": ["Japanese"],
-   "languageColors": ["red"]
+   "languages": ["Japanese", "Korean", "Russian", "North-Korean"],
+   "languageColors": ["#008b8b", "#005b8b", "#006b8b", "#007b8b",]
  }
 ]
