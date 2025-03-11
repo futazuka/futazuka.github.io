@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "あなたの名前"
+    "name": "二塚俊洋"
   },
   "nav": {
     "bio": "プロフィール",
@@ -10,8 +10,8 @@
     "contact": "連絡先"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Toshihiro Futazuka",
+    "nameJp": "二塚俊洋",
     "phd": "Ph.D.",
     "phdJp": "博士（工学）",
     "position": "博士研究員",
@@ -22,8 +22,8 @@
     "researchmap": "",
     "researchInterests": "研究興味",
     "researchTags": [
-      "数学",
-      "物理学"
+      "粒界",
+      "理論計算"
     ]
   },
   "publications": {
