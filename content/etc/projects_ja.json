@@ -1,18 +1,2 @@
 [
- {
-   "id": "project-1",
-   "title": "JST-ERATO",
-   "description": "準備中",
-   "url": "https://www.jst.go.jp/erato/shibata/",
-   "languages": ["Japanese"],
-   "languageColors": ["#008b8b"]
- },
- {
-   "id": "project-2",
-   "title": "KAGAWA-YAKEN",
-   "description": "準備中",
-   "url": "https://www.kagawa.go.jp",
-   "languages": ["Japanese", "Kagawese", "Korean", "North-Korean", "Russian", "Chinese", "Ultra Girl"],
-   "languageColors": ["#008b8b", "#002b2b", "#003b3b", "#004b4b", "#005b5b", "#006b6b", "#007b7b"]
- }
 ]
