@@ -1,15 +1,15 @@
 [
   {
-    "id": "paper-5",
-    "title": "Your Paper Title 5",
-    "titleJa": "Your Paper Title 5",
-    "authors": "著者1, 著者2",
-    "authorsJa": "著者1, 著者2",
-    "journal": "ジャーナル名",
-    "journalJa": "ジャーナル名",
+    "id": "49920496",
+    "title": "First-principles calculations of group IIA and group IV impurities in α-Al2O3",
+    "titleJa": "First-principles calculations of group IIA and group IV impurities in α-Al2O3",
+    "authors": "Toshihiro Futazuka,Ryo Ishikawa,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Toshihiro Futazuka,Ryo Ishikawa,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "Physical Review Materials",
+    "journalJa": "Physical Review Materials",
     "year": "2020",
-    "month": "01",
-    "doi": "10.1234/abcd",
-    "isMainWork": true
+    "month": "07",
+    "doi": "10.1103/physrevmaterials.4.073602",
+    "isMainWork": false
   }
 ]
