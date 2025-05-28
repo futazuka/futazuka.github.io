@@ -1,28 +1,41 @@
 [
   {
-    "id": "paper-4",
-    "title": "Your Paper Title 4",
-    "titleJa": "Your Paper Title 4",
-    "authors": "Author 1, Author 2",
-    "authorsJa": "Author 1, Author 2",
-    "journal": "Journal Name",
-    "journalJa": "Journal Name",
+    "id": "49944909",
+    "title": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
+    "titleJa": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
+    "authors": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "",
+    "journalJa": "",
     "year": "2024",
-    "month": "11",
-    "doi": "10.1234/abcd",
-    "isMainWork": true
+    "month": "10",
+    "doi": "10.21203/rs.3.rs-5206987/v1",
+    "isMainWork": false
   },
   {
-    "id": "paper-3",
-    "title": "あなたの論文タイトル3",
-    "titleJa": "あなたの論文タイトル3",
-    "authors": "Author 1, Author 2",
-    "authorsJa": "著者1, 著者2",
-    "journal": "Journal Name",
-    "journalJa": "ジャーナル名",
+    "id": "50262652",
+    "title": "Real-time tracking of three-dimensional atomic dynamics of Pt trimer on TiO <sub>2</sub> (110)",
+    "titleJa": "Real-time tracking of three-dimensional atomic dynamics of Pt trimer on TiO <sub>2</sub> (110)",
+    "authors": "Ryo Ishikawa,Toshihiro Futazuka,Yu Jimbo,Kazuaki Kawahara,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Ryo Ishikawa,Toshihiro Futazuka,Yu Jimbo,Kazuaki Kawahara,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "Science Advances",
+    "journalJa": "Science Advances",
     "year": "2024",
-    "month": "01",
-    "doi": "10.1234/abcd",
-    "isMainWork": true
+    "month": "03",
+    "doi": "10.1126/sciadv.adk6501",
+    "isMainWork": false
+  },
+  {
+    "id": "50262631",
+    "title": "The atomic and electronic band structures in Ca/Si-doped and Ca/Si/Ti-doped Al2O3 grain boundaries",
+    "titleJa": "The atomic and electronic band structures in Ca/Si-doped and Ca/Si/Ti-doped Al2O3 grain boundaries",
+    "authors": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Jiake Wei,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Jiake Wei,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "Journal of the European Ceramic Society",
+    "journalJa": "Journal of the European Ceramic Society",
+    "year": "2024",
+    "month": "02",
+    "doi": "10.1016/j.jeurceramsoc.2023.09.011",
+    "isMainWork": false
   }
 ]

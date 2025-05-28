@@ -1,15 +1,15 @@
 [
   {
-    "id": "paper-1",
-    "title": "Your Paper Title 1",
-    "titleJa": "あなたの論文タイトル1",
-    "authors": "Author 1, Author 2",
-    "authorsJa": "著者1, 著者2",
-    "journal": "Journal Name",
-    "journalJa": "ジャーナル名",
+    "id": "49944908",
+    "title": "Incommensurate grain-boundary atomic structure",
+    "titleJa": "Incommensurate grain-boundary atomic structure",
+    "authors": "Takehito Seki,Toshihiro Futazuka,Nobusato Morishige,Ryo Matsubara,Yuichi Ikuhara,Naoya Shibata",
+    "authorsJa": "Takehito Seki,Toshihiro Futazuka,Nobusato Morishige,Ryo Matsubara,Yuichi Ikuhara,Naoya Shibata",
+    "journal": "Nature Communications",
+    "journalJa": "Nature Communications",
     "year": "2023",
-    "month": "01",
-    "doi": "10.1234/abcd",
+    "month": "12",
+    "doi": "10.1038/s41467-023-43536-0",
     "isMainWork": false
   }
 ]
