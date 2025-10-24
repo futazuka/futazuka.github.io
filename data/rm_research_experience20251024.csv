@@ -1,0 +1,4 @@
+﻿research_experience
+アクション名,アクションタイプ,類似業績マージ優先度,ID,年月(From),年月(To),所属(日本語),所属(英語),部署(日本語),部署(英語),職名(日本語),職名(英語),職階,称号(日本語),称号(英語),備考(日本語),備考(英語),国・地域,主要な業績かどうか,公開の有無
+insert,merge,null,51526310,2024-04,null,東京大学,"The University of Tokyo","大学院工学系研究科 附属総合研究機構","The Graduate School of Engineering Institute of Engineering Innovation",特任研究員,"Project Researcher",researcher_postdoc_lv,null,null,null,null,JPN,false,disclosed
+insert,merge,null,51526045,2021-04,2024-03,東京大学,"The University of Tokyo",大学院工学系研究科,"The Graduate School of Engineering",博士,Doctor,null,null,null,null,null,null,false,disclosed
