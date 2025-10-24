@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "51525680",
+    "title": "Co-Segregation of Aliovalent Dopants at α-Al2O3 Σ13 Grain Boundary",
+    "titleJa": "Co-Segregation of Aliovalent Dopants at α-Al2O3 Σ13 Grain Boundary",
+    "speakers": "T. Futazuka,R. Ishikawa,N. Shibata,Y. Ikuhara",
+    "speakersJa": "T. Futazuka,R. Ishikawa,N. Shibata,Y. Ikuhara",
+    "conference": "MRS2022",
+    "conferenceJa": "MRS2022",
+    "date": "2022-12",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "51525654",
+    "title": "α-Al2O3 Σ13粒界におけるCa/Si共偏析機構の解明",
+    "titleJa": "α-Al2O3 Σ13粒界におけるCa/Si共偏析機構の解明",
+    "speakers": "二塚俊洋,石川亮,柴田直哉,幾原雄一",
+    "speakersJa": "二塚俊洋,石川亮,柴田直哉,幾原雄一",
+    "conference": "日本セラミックス協会 2022年年会",
+    "conferenceJa": "日本セラミックス協会 2022年年会",
+    "date": "2022-03",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  }
+]
