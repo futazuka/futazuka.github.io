@@ -1,5 +1,31 @@
 [
   {
+    "id": "51508889",
+    "title": "Direct observation of substitutional and interstitial dopant diffusion in oxide grain boundary",
+    "titleJa": "Direct observation of substitutional and interstitial dopant diffusion in oxide grain boundary",
+    "authors": "Toshihiro Futazuka,Ryo Ishikawa,Tatsuya Yokoi,Katsuyuki Matsunaga,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Toshihiro Futazuka,Ryo Ishikawa,Tatsuya Yokoi,Katsuyuki Matsunaga,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "Nature Communications",
+    "journalJa": "Nature Communications",
+    "year": "2025",
+    "month": "10",
+    "doi": "10.1038/s41467-025-64798-w",
+    "isMainWork": false
+  },
+  {
+    "id": "50413955",
+    "title": "Real-space observation of polarization induced charges at nanoscale ferroelectric interfaces",
+    "titleJa": "Real-space observation of polarization induced charges at nanoscale ferroelectric interfaces",
+    "authors": "Takehito Seki,Toshihiro Futazuka,Scott D Findlay,Naoya Shibata,Masaya Takamoto,Satoko Toyama,Yuichi Ikuhara",
+    "authorsJa": "Takehito Seki,Toshihiro Futazuka,Scott D Findlay,Naoya Shibata,Masaya Takamoto,Satoko Toyama,Yuichi Ikuhara",
+    "journal": "Science Advances",
+    "journalJa": "Science Advances",
+    "year": "2025",
+    "month": "06",
+    "doi": "10.1126/sciadv.adu8021",
+    "isMainWork": false
+  },
+  {
     "id": "50000554",
     "title": "Atomic-scale observation of Σ5{310} and Σ9{411} grain boundaries in silicon steel",
     "titleJa": "Atomic-scale observation of Σ5{310} and Σ9{411} grain boundaries in silicon steel",
