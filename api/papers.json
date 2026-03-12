@@ -1,5 +1,31 @@
 [
   {
+    "id": "52306349",
+    "title": "3D dynamic structure of a Pt nanoparticle on SrTiO3 (001) during in-situ heating atomic-resolution ADF STEM imaging",
+    "titleJa": "3D dynamic structure of a Pt nanoparticle on SrTiO3 (001) during in-situ heating atomic-resolution ADF STEM imaging",
+    "authors": "Ryo Ishikawa,Rikuto Kubota,Kazuaki Kawahara,Toshihiro Futazuka,Yuichi Ikuhara,Naoya Shibata",
+    "authorsJa": "Ryo Ishikawa,Rikuto Kubota,Kazuaki Kawahara,Toshihiro Futazuka,Yuichi Ikuhara,Naoya Shibata",
+    "journal": "Nature Communications",
+    "journalJa": "Nature Communications",
+    "year": "2026",
+    "month": "02",
+    "doi": "10.1038/s41467-026-69767-5",
+    "isMainWork": false
+  },
+  {
+    "id": "49944909",
+    "title": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
+    "titleJa": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
+    "authors": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
+    "authorsJa": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
+    "journal": "Nature Communications",
+    "journalJa": "Nature Communications",
+    "year": "2025",
+    "month": "11",
+    "doi": "10.1038/s41467-025-65745-5",
+    "isMainWork": false
+  },
+  {
     "id": "51508889",
     "title": "Direct observation of substitutional and interstitial dopant diffusion in oxide grain boundary",
     "titleJa": "Direct observation of substitutional and interstitial dopant diffusion in oxide grain boundary",
@@ -16,8 +42,8 @@
     "id": "50413955",
     "title": "Real-space observation of polarization induced charges at nanoscale ferroelectric interfaces",
     "titleJa": "Real-space observation of polarization induced charges at nanoscale ferroelectric interfaces",
-    "authors": "Takehito Seki,Toshihiro Futazuka,Scott D Findlay,Naoya Shibata,Masaya Takamoto,Satoko Toyama,Yuichi Ikuhara",
-    "authorsJa": "Takehito Seki,Toshihiro Futazuka,Scott D Findlay,Naoya Shibata,Masaya Takamoto,Satoko Toyama,Yuichi Ikuhara",
+    "authors": "Masaya Takamoto,Satoko Toyama,Takehito Seki,Toshihiro Futazuka,Scott D. Findlay,Yuichi Ikuhara,Naoya Shibata",
+    "authorsJa": "Masaya Takamoto,Satoko Toyama,Takehito Seki,Toshihiro Futazuka,Scott D. Findlay,Yuichi Ikuhara,Naoya Shibata",
     "journal": "Science Advances",
     "journalJa": "Science Advances",
     "year": "2025",
@@ -36,19 +62,6 @@
     "year": "2025",
     "month": "04",
     "doi": "10.1007/s10853-025-10770-4",
-    "isMainWork": false
-  },
-  {
-    "id": "49944909",
-    "title": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
-    "titleJa": "Two-step grain boundary diffusion mechanism of a dopant accompanied by structural transformation",
-    "authors": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
-    "authorsJa": "Chuchu Yang,Bin Feng,Toshihiro Futazuka,Naoya Shibata,Yuichi Ikuhara",
-    "journal": "",
-    "journalJa": "",
-    "year": "2024",
-    "month": "10",
-    "doi": "10.21203/rs.3.rs-5206987/v1",
     "isMainWork": false
   },
   {
